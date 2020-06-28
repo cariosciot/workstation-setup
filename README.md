@@ -1,5 +1,7 @@
 # workstation-setup
 
+![workstation](workstation.jpg)
+
 ## Hardware
 
 * Computer - MacBook Pro 13-inch, 2019
@@ -14,9 +16,9 @@
 
 * Text Editor / Lightweight IDE - [Atom](https://atom.io/)
 * Personal Email - [HEY](https://hey.com/)
-* Terminal [iTerm2]
+* Terminal [iTerm2](https://www.iterm2.com/)
 
 ## Furniture
 
-* Chair [Herman Miller Mirra v1](https://en.wikipedia.org/wiki/Mirra_chair)
-* Desk - [SKARSTA](https://www.ikea.com/au/en/p/skarsta-desk-sit-stand-white-s69324813/)
+* Chair - [Herman Miller Mirra v1](https://en.wikipedia.org/wiki/Mirra_chair)
+* Sit/Stand Desk - [SKARSTA](https://www.ikea.com/au/en/p/skarsta-desk-sit-stand-white-s69324813/)
