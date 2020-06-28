@@ -16,7 +16,7 @@
 
 * Text Editor / Lightweight IDE - [Atom](https://atom.io/)
 * Personal Email - [HEY](https://hey.com/)
-* Terminal [iTerm2](https://www.iterm2.com/)
+* Terminal - [iTerm2](https://www.iterm2.com/)
 
 ## Furniture
 
