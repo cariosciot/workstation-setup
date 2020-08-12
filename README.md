@@ -14,11 +14,20 @@
 
 ## Software
 
+### Work Software
+
+* SAP GUI
+* IDE - [Eclipse](https://www.eclipse.org/)
+* Email - Mac Mail
+
+### Personal Software
+
 * Text Editor / Lightweight IDE - [Atom](https://atom.io/)
-* Personal Email - [HEY](https://hey.com/)
+* Email - [HEY](https://hey.com/)
 * Terminal - [iTerm2](https://www.iterm2.com/)
 
 ## Furniture
 
 * Chair - [Herman Miller Mirra v1](https://en.wikipedia.org/wiki/Mirra_chair)
 * Sit/Stand Desk - [SKARSTA](https://www.ikea.com/au/en/p/skarsta-desk-sit-stand-white-s69324813/)
+* Desk Mat - [SUSIG](https://www.ikea.com/au/en/p/susig-desk-pad-cork-30457663/)
