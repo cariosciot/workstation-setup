@@ -1,10 +1,11 @@
 # workstation-setup
 
-![workstation](workstation.jpg)
+![workstation](media/workstation.jpg)
 
 ## Hardware
 
 * Computer - MacBook Pro 13-inch, 2019
+* Monitor - [Phillips 271E9/75](https://www.philips.com.au/c-p/271E9_75/lcd-monitor)
 * Laptop Stand - [TwelveSouth Curve SE](https://www.twelvesouth.com/products/curve-for-macbook)
 * Mouse - [Magic Mouse](https://en.wikipedia.org/wiki/Magic_Mouse)
 * Keyboard - [Varmilo VA87M](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4911)
