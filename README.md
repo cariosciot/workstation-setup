@@ -10,7 +10,7 @@
 * Mouse - [Magic Mouse](https://en.wikipedia.org/wiki/Magic_Mouse)
 * Keyboard - [Varmilo VA87M](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4911)
 * Dongle - [USB-C Digital AV Multiport Adapter](https://www.apple.com/shop/product/MUF82/usb-c-digital-av-multiport-adapter)
-* Headphones - [Bose SoundSport](https://www.bose.com.au/en_au/products/headphones/earbuds/soundsport-wireless.html)
+* Headphones - [QuietComfort 35 wireless headphones II](https://www.bose.com.au/en_au/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html#v=qc35_ii_black)
 * External HDD - [LaCie Rugged 1TB USB-C Portable Hard Drive](https://www.lacie.com/as/en/products/rugged/)
 
 ## Software
